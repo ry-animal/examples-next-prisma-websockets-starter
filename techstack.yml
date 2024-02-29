@@ -2,7 +2,7 @@ repo_name: ry-animal/examples-next-prisma-websockets-starter
 report_id: f0055ca8172dc0b21cdd3b57764bc49e
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:14:34+00:00'
+timestamp: '2024-02-29T18:15:19+00:00'
 requested_by: KATT
 provider: github
 branch: main
@@ -65,7 +65,7 @@ tools:
   last_updated_by: Nils Kjellman
   last_updated_on: 2022-11-20 21:18:11.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.0.0
   open_source: true
@@ -179,7 +179,7 @@ tools:
   last_updated_by: Josh Goldberg
   last_updated_on: 2022-12-27 16:42:47.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.7.1
   license: MIT
